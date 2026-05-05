@@ -1,6 +1,6 @@
 # Dipiri Landing
 
-Standalone shutdown landing page for Dipiri.
+Standalone shutdown landing page for Dipiri. As the project is shutdown for now
 
 ## Files
 
